@@ -5,6 +5,3 @@
 [submodule "cAIC4"]
 	path = cAIC4
 	url = https://github.com/cran/cAIC4
-[submodule "deepregression"]
-	path = deepregression
-	url = https://github.com/cran/deepregression
